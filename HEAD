@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 ed4bff378f2821311662b6365a05edcedb3d1a72 ElifMiray <elifmiraykaraman@icloud.com> 1741903476 +0300	commit (initial): Gmap dosyasını aktifleştirdim
+ed4bff378f2821311662b6365a05edcedb3d1a72 166fe44679bde9a885337cb2cbe3b0895a0357e6 ElifMiray <elifmiraykaraman@icloud.com> 1741908580 +0300	commit: Gmap yüklenme sorunu var.
+166fe44679bde9a885337cb2cbe3b0895a0357e6 71979896169833e11ce4ee27240f8160625fee2d ElifMiray <elifmiraykaraman@icloud.com> 1741955933 +0300	commit: gmap sorunu çözüldü. başlangıç hedef pinleri konuldu.harita direkt izmitte açılıyor.
+71979896169833e11ce4ee27240f8160625fee2d 03304e5ec32ecd624610c845c37091e78a59d236 ElifMiray <elifmiraykaraman@icloud.com> 1742247839 +0300	commit: Gereksiz dosyaları git ignore'a ekledim
+03304e5ec32ecd624610c845c37091e78a59d236 891b4e58af8b1b8a34f98f9b50ae89b832fa272c ElifMiray <elifmiraykaraman@icloud.com> 1742247982 +0300	commit: Önbellekten kaldırılan gereksiz dosyalar
+891b4e58af8b1b8a34f98f9b50ae89b832fa272c 891b4e58af8b1b8a34f98f9b50ae89b832fa272c ElifMiray <elifmiraykaraman@icloud.com> 1742248125 +0300	reset: moving to 891b4e5
+891b4e58af8b1b8a34f98f9b50ae89b832fa272c f37a62470696c4a49289cf5727af3f817ead163c ElifMiray <elifmiraykaraman@icloud.com> 1742248920 +0300	commit: Kaybolan Git repo tekrar oluşturuldu
+f37a62470696c4a49289cf5727af3f817ead163c a8c2dc28a09f0023fa0dc876008e2e3a08dfc3a2 ElifMiray <elifmiraykaraman@icloud.com> 1742295951 +0300	commit: Remove .vs, bin, obj folders from version control
+a8c2dc28a09f0023fa0dc876008e2e3a08dfc3a2 865407af73ea3779f02ad2064ad5b4dc95952f98 ElifMiray <elifmiraykaraman@icloud.com> 1742295958 +0300	commit: Ödeme yöntemi ve frontend eklendi, backend de çalışıyor.
