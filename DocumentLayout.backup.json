@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|c:\\masa\u00FCst\u00FC\\rota_planlama_sistemi (2)\\rota_planlama_sistemi\\rotahesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:rotahesaplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\rotaadimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:rotaadimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\rotaadim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:rotaadim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\interfaces\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:interfaces\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\interfaces\\irotabulucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:interfaces\\irotabulucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\interfaces\\iarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:interfaces\\iarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:arac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{748C4456-AB98-46D4-A854-BD84B78D769C}|Rota_Planlama_sistemi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotaHesaplayici.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaHesaplayici.cs",
+              "RelativeDocumentMoniker": "RotaHesaplayici.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaHesaplayici.cs",
+              "RelativeToolTip": "RotaHesaplayici.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:42:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOdemeYontemi.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IOdemeYontemi.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOdemeYontemi.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IOdemeYontemi.cs",
+              "RelativeToolTip": "Interfaces\\IOdemeYontemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRotaBulucu.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IRotaBulucu.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRotaBulucu.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IRotaBulucu.cs",
+              "RelativeToolTip": "Interfaces\\IRotaBulucu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:30.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArac.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IArac.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IArac.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Interfaces\\IArac.cs",
+              "RelativeToolTip": "Interfaces\\IArac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:26.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RotaAdim.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaAdim.cs",
+              "RelativeDocumentMoniker": "RotaAdim.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaAdim.cs",
+              "RelativeToolTip": "RotaAdim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:22.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arac.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Arac.cs",
+              "RelativeDocumentMoniker": "Arac.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Arac.cs",
+              "RelativeToolTip": "Arac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:41:18.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotaAdimi.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaAdimi.cs",
+              "RelativeDocumentMoniker": "RotaAdimi.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\RotaAdimi.cs",
+              "RelativeToolTip": "RotaAdimi.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:49:17.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAcwBwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:23:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Masa\u00FCst\u00FC\\Rota_Planlama_sistemi (2)\\Rota_Planlama_sistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:27:28.722Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1296,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
