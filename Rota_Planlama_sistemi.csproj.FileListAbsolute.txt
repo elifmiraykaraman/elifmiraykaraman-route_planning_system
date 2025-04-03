@@ -1,0 +1,272 @@
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\Acer\source\repos\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\miraysh3\miraysh\miraysh\Rota_Planlama_sistemi3 (2)\Rota_Planlama_sistemi3\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Users\User\OneDrive\Masaüstü\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\VeriSeti.json.txt
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe.config
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\Rota_Planlama_sistemi.pdb
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\GMap.NET.Core.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Buffers.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Memory.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.dll
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Buffers.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.IO.Pipelines.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Memory.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Numerics.Vectors.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Text.Json.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\bin\Debug\System.ValueTuple.xml
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.AssemblyReference.cache
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Form1.resources
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.Properties.Resources.resources
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.GenerateResource.cache
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Pla.299C7061.Up2Date
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.exe
+C:\Masaüstü\Rota_Planlama_sistemi (2)\Rota_Planlama_sistemi\obj\Debug\Rota_Planlama_sistemi.pdb
